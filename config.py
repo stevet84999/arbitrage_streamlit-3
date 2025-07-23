@@ -1,3 +1,4 @@
+
 API_KEY = "817c309e5d37829ba411d488fdab5e2a"
 
 SPORTS = [
@@ -11,7 +12,9 @@ SPORTS = [
 BOOKMAKERS = [
     "coral",
     "ladbrokes",
-    "betfred"
+    "betfred",
+    "williamhill",
+    "paddypower"
 ]
 
 REGIONS = "uk"
